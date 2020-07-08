@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293192164940",
+    "firebase_url": "https://nssc-80450.firebaseio.com",
+    "project_id": "nssc-80450",
+    "storage_bucket": "nssc-80450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293192164940:android:07fe804276f27f3dc8b6e9",
+        "android_client_info": {
+          "package_name": "vn.gov.nssc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293192164940-s2ovo9k3m5t79g9hbvls1l3uma0annmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zLVoxGS-7IURP__mpUfpPMMkNE6-6ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293192164940-s2ovo9k3m5t79g9hbvls1l3uma0annmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
